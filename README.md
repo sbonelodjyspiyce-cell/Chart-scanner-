@@ -1,0 +1,2 @@
+# Chart-scanner-
+Forex purposes 
